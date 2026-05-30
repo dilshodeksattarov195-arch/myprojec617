@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "emailcecrypt",
+        "uuid": 4356637,
+        "checksum": "8xd5k6"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
